@@ -1,7 +1,7 @@
 #docker Madsonic
 
-Currently using the Madsonic 5.1 Public Preview, build 5800  
-http://forum.madsonic.org/viewtopic.php?f=34&t=1171
+Currently using the Madsonic 5.1 Final, build 5150
+http://forum.madsonic.org/viewtopic.php?f=34&t=1200
 
 /config  
 Home directory for madsonic.  Your logs and databases will be stored here.
